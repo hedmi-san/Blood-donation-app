@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "983210031095",
+    "firebase_url": "https://givealife-19562-default-rtdb.firebaseio.com",
+    "project_id": "givealife-19562",
+    "storage_bucket": "givealife-19562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983210031095:android:8f59ad41982c7bba0c20f2",
+        "android_client_info": {
+          "package_name": "com.example.givealife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983210031095-lnvjuo4iqvd60igpqmikdog98od19083.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu8Wpzp_P0JJLcAuvIbqVS62XzQHXQP4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983210031095-lnvjuo4iqvd60igpqmikdog98od19083.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983210031095:android:4a7f2200f00a6a910c20f2",
+        "android_client_info": {
+          "package_name": "com.example.givealifee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983210031095-lnvjuo4iqvd60igpqmikdog98od19083.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu8Wpzp_P0JJLcAuvIbqVS62XzQHXQP4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983210031095-lnvjuo4iqvd60igpqmikdog98od19083.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
